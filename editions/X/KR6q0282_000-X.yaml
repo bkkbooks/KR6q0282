@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0282/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 長靈守卓禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1347.xml
+    old_id: X69n1347
+hash: sha256:556c37f3b71a7d29853da68ae4ee3aacfbe0feae6bf1072e04061c6190e0a213
